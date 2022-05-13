@@ -301,7 +301,7 @@ a.ssolink {
             </div>
             <div class="box-root padding-top--24 flex-flex flex-direction--column" style="flex-grow: 1; z-index: 9;">
                 <div class="box-root padding-top--48 padding-bottom--24 flex-flex flex-justifyContent--center">
-                    <h1><a href="index.html" rel="dofollow">Ndejje Teaching Hospital</a></h1><img style="height: 50; width:50px;" src="https://admissions.ndu.ac.ug/resources/images/logos/ndejje.png">
+                    <h1><a href="index.html" rel="dofollow">Ndejje Teaching Hospital</a></h1><img style="height: 50; width:50px;" src="pics/logo.jpg">
                 </div>
                 <div class="formbg-outer">
                     <div class="formbg">

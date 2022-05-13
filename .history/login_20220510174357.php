@@ -77,17 +77,7 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
 }
-.loginbackground-gridContainer {
-    display: -ms-grid;
-    display: grid;
-    -ms-grid-columns: [start] 1fr [left-gutter] (86.6px)[16] [left-gutter] 1fr [end];
-    grid-template-columns: [start] 1fr [left-gutter] repeat(16,86.6px) [left-gutter] 1fr [end];
-    -ms-grid-rows: [top] 1fr [top-gutter] (64px)[8] [bottom-gutter] 1fr [bottom];
-    grid-template-rows: [top] 1fr [top-gutter] repeat(8,64px) [bottom-gutter] 1fr [bottom];
-    justify-content: center;
-    margin: 0 -2%;
-    transform: rotate(-12deg) skew(-12deg);
-}
+
 .box-divider--light-all-2 {
     box-shadow: inset 0 0 0 2px #e3e8ee;
 }
@@ -301,7 +291,7 @@ a.ssolink {
             </div>
             <div class="box-root padding-top--24 flex-flex flex-direction--column" style="flex-grow: 1; z-index: 9;">
                 <div class="box-root padding-top--48 padding-bottom--24 flex-flex flex-justifyContent--center">
-                    <h1><a href="index.html" rel="dofollow">Ndejje Teaching Hospital</a></h1><img style="height: 50; width:50px;" src="https://admissions.ndu.ac.ug/resources/images/logos/ndejje.png">
+                    <h1><a href="index.html" rel="dofollow">Ndejje Teaching Hospital</a></h1><img style="height: 50; width:50px;" src="pics/logo.jpg">
                 </div>
                 <div class="formbg-outer">
                     <div class="formbg">
